@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://github.com/RainerGaier/Namibia-Expedition.git",
+    baseUrl: "https://github.com/RainerGaier/Namibia-2026.git",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
