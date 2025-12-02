@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Planning</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Quartz 4"/><meta property="og:title" content="Planning"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Planning"/><meta name="twitter:description" content="Bookings:info@namibweb.com Payment options Packing List Erongo Region This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former Damaraland south of the Ugab river, and the Omaruru and Karibib magisterial districts."/><meta property="og:description" content="Bookings:info@namibweb.com Payment options Packing List Erongo Region This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former Damaraland south of the Ugab river, and the Omaruru and Karibib magisterial districts."/><meta property="og:image:alt" content="Bookings:info@namibweb.com Payment options Packing List Erongo Region This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former Damaraland south of the Ugab river, and the Omaruru and Karibib magisterial districts."/><meta property="twitter:domain" content="https://github.com/RainerGaier/Namibia-2026.git"/><meta property="og:url" content="https://https//github.com/RainerGaier/Namibia-2026.git/Planning"/><meta property="twitter:url" content="https://https//github.com/RainerGaier/Namibia-2026.git/Planning"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Bookings:info@namibweb.com Payment options Packing List Erongo Region This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former Damaraland south of the Ugab river, and the Omaruru and Karibib magisterial districts."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxnYWllcnJcXERvY3VtZW50c1xccXVhcnR6XFxxdWFydHpcXGNvbXBvbmVudHNcXHN0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBOztBQUdGO0VBQ0U7RUFDQTs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTs7QUFJRjtFQUNFO0VBQ0E7RUFDQSIsInNvdXJjZXNDb250ZW50IjpbIi5leHBhbmQtYnV0dG9uIHtcbiAgcG9zaXRpb246IGFic29sdXRlO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbG9hdDogcmlnaHQ7XG4gIHBhZGRpbmc6IDAuNHJlbTtcbiAgbWFyZ2luOiAwLjNyZW07XG4gIHJpZ2h0OiAwOyAvLyBOT1RFOiByaWdodCB3aWxsIGJlIHNldCBpbiBtZXJtYWlkLmlubGluZS50c1xuICBjb2xvcjogdmFyKC0tZ3JheSk7XG4gIGJvcmRlci1jb2xvcjogdmFyKC0tZGFyayk7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgYm9yZGVyOiAxcHggc29saWQ7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgb3BhY2l0eTogMDtcbiAgdHJhbnNpdGlvbjogMC4ycztcblxuICAmID4gc3ZnIHtcbiAgICBmaWxsOiB2YXIoLS1saWdodCk7XG4gICAgZmlsdGVyOiBjb250cmFzdCgwLjMpO1xuICB9XG5cbiAgJjpob3ZlciB7XG4gICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIGJvcmRlci1jb2xvcjogdmFyKC0tc2Vjb25kYXJ5KTtcbiAgfVxuXG4gICY6Zm9jdXMge1xuICAgIG91dGxpbmU6IDA7XG4gIH1cbn1cblxucHJlIHtcbiAgJjpob3ZlciA+IC5leHBhbmQtYnV0dG9uIHtcbiAgICBvcGFjaXR5OiAxO1xuICAgIHRyYW5zaXRpb246IDAuMnM7XG4gIH1cbn1cblxuI21lcm1haWQtY29udGFpbmVyIHtcbiAgcG9zaXRpb246IGZpeGVkO1xuICBjb250YWluOiBsYXlvdXQ7XG4gIHotaW5kZXg6IDk5OTtcbiAgbGVmdDogMDtcbiAgdG9wOiAwO1xuICB3aWR0aDogMTAwdnc7XG4gIGhlaWdodDogMTAwdmg7XG4gIG92ZXJmbG93OiBoaWRkZW47XG4gIGRpc3BsYXk6IG5vbmU7XG4gIGJhY2tkcm9wLWZpbHRlcjogYmx1cig0cHgpO1xuICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDAuNSk7XG5cbiAgJi5hY3RpdmUge1xuICAgIGRpc3BsYXk6IGlubGluZS1ibG9jaztcbiAgfVxuXG4gICYgPiAjbWVybWFpZC1zcGFjZSB7XG4gICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgIHBvc2l0aW9uOiBmaXhlZDtcbiAgICB0b3A6IDUwJTtcbiAgICBsZWZ0OiA1MCU7XG4gICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG4gICAgaGVpZ2h0OiA4MHZoO1xuICAgIHdpZHRoOiA4MHZ3O1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG5cbiAgICAmID4gLm1lcm1haWQtY29udGVudCB7XG4gICAgICBwYWRkaW5nOiAycmVtO1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="./prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://https://github.com/RainerGaier/Namibia-2026.git/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://https://github.com/RainerGaier/Namibia-2026.git/Planning-og-image.webp"/><meta property="og:image:url" content="https://https://github.com/RainerGaier/Namibia-2026.git/Planning-og-image.webp"/><meta name="twitter:image" content="https://https://github.com/RainerGaier/Namibia-2026.git/Planning-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Planning"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Quartz 4</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-3"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-3" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="./">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Planning</a></div></nav><h1 class="article-title">Planning</h1><p show-comma="true" class="content-meta"><time datetime="2025-11-30T14:32:15.000Z">Nov 30, 2025</time><span>16 min read</span></p></div></div><article class="popover-hint"><p><img src="./attachments/Namibia-2026.png" width="auto" height="auto" alt/></p>
+<p><a href="mailto:info@namibweb.com?subject=Epupa%20Falls%20Camp%20Sites" class="external">Bookings:info@namibweb.com<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://www.namibweb.com/payment.htm" class="external">Payment options<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://selfdrive4x4.com/en/benodigdheden/" class="external">Packing List<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><img src="./attachments/Pasted-Image-20251109045545_250.png" width="auto" height="auto" alt/></p>
+<p><img src="./attachments/Pasted-image-20251109114846.png" width="auto" height="auto" alt/></p>
+<p><a href="https://www.namibweb.com/erongoregion.htm" class="external">Erongo Region<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former <a href="https://www.namibweb.com/damaraland.htm" class="external">Damaraland<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> south of the Ugab river, and the Omaruru and Karibib magisterial districts. This region is named after the Erongo mountain, a well known landmark in Namibia and in this area. All the main centres within this region, excepting south of former Damaraland, are connected by tarred roads. Gravel roads link this this part with either Omaruru or Swakopmund. The inclusion of former South Damaraland is necessitated by various services for this part which originate in Omaruru. Postal and telecommunications services for Omatjette, Okombahe and Uis are maintained from Omaruru. Veterinary services for these areas are provided by the State Veterinarian based at Omaruru. The maintenance of roads falls under the Roads Superintendent of Omaruru. Medical services are rendered at the clinics of Omatjette, Okombahe, and Uis by medical personnel and private doctors stationed at Omaruru. The main hospital centre for this area is in Omaruru.<br/>
+The Omaruru, Karibib and Okombahe/Uis/Tsubeses areas are all situated in a semi-arid farming region and have a homogenous farming pattern, which is mostly stock-raising. It also combines communal farming with commercial farming. The needs for production and marketing are therefore very similar and the farming community has a distinct mutual interest which distinguishes their area from the Okahandja/Otjiwarongo areas which are different in various aspects.<br/>
+Various mining operations occur within this region at places such as <a href="https://www.namibweb.com/navachab.htm" class="external">Navachab<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> and on a smaller scale at places surrounding Uis and the desert area. Karibib also has a marble industry. Walvis Bay is the principle home of Namibia’s fishing industry. Arandis supports mining industry and Swakopmund boasts manufacturing. Arandis is also an <a href="https://www.namibweb.com/epz.htm" class="external">Export Processing Zone (EPZ)<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>.<br/>
+This region, with its link to the coast of Namibia, is well developed and should not experience any difficulty in functioning as an administrative unit. Facilities such as schools, hospitals and clinics, the supply of electricity and telecommunication services are, with a few exceptions, well established. The linkage of this predominantly farming area with the more developed areas such as Swakopmund and Walvis Bay is territorially justified and can only be to their advantage.<br/>
+The region comprises of six constituencies: Omaruru, Karibib, Brandberg, Arandis, Swakopmund, Walvis Bay.</p>
+<p><a href="https://www.namibweb.com/kuneneregion.htm" class="external">Kunene Region<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>This region comprises the western part of former Ovambo, Koakoland, Damaraland north of the Ugab river and the Magisterial District of Outjo. This region is named after the Kunene river which forms the north-western border of this particular region. With its large supply of water and its hydro-electric plant, this river will play an increasingly important role in Namibia <br/>
+The main centers of this region are connected by gravel and tarred roads. Opuwo, Khorixas, Kamanjab and Ruacana are linked with constructed gravel roads whereas Khorixas and Kamanjab are in turn linked to Outjo by tarred roads. The communication system of this region, excepting Ruacana, runs from Outjo and is maintained from this centre. The railway line serving most of Region ends at Outjo from where consumer items and other goods are distributed through the region.<br/>
+One of the unique features of this region is its many tourist attractions. Places such as former Kaokoland, Damaraland and Ruacana will become more accessible to tourists once the planned tarred road running from Ruacana to Kamanjab and the coast becomes a reality. With Outjo as one of the two entrance points to the National Etosha Game Reserve, tourism will become a major revenue source to this territory which is otherwise somewhat underendowed with natural resources. <br/>
+At its main centers, the region has facilities such as primary and secondary schools, clinics and hospitals and electrical power supply. Although these facilities are not always sufficient to provide for all the needs of the community, the necessary infrastructure for further development is available. <br/>
+Furthermore a lively trade has developed between this western part of former Ovambo and more particularly the people of former eastern Kaokoland. There is also evidence that people from former Ovambo have moved into former Kaokoland and vice versa. <br/>
+The region has been divided into the following six constituencies: Ruacana, Opuwo, Sesfontein, Khorixas, Kamanjab and Outjo.</p>
+<p><img src="./attachments/Pasted-image-20250903051726.png" width="auto" height="auto" alt/></p>
+<h3 id="maps">Maps<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#maps" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="https://tracks4africa.co.za/maps/africa/" class="external">Tracks4Africa<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://mapcarta.com/N3080674849" class="external">Mapcarta<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://brouter.de/brouter-web/?utm_source=chatgpt.com#map=11/-17.4519/13.5413/Esri.WorldImagery&amp;pois=12.443948,-17.264006,Anna%3A%20Camp%20Syncro;14.685524,-21.017425,Brandberg%20White%20Lady%20Lodge%20Campground;14.850147,-20.72058,Buruxa%20Camp;13.493915,-17.062926,Camp%20Cornie;13.08079,-18.322191,Campsite%20Hoarusib;13.986712,-19.911411,Caravan%20park%20-%20Oalmwag;13.88335,-19.265707,Community%20Operated%20Camp%3A%20Khowarib%20Community%20Rest%20Camp;13.275733,-17.420669,Conect1;13.525801,-17.144723,Enyandi%20Campsite;13.253567,-17.000184,Epupa%20Camp;12.601748,-17.985563,Etaambura%20Camp;14.965439,-20.373201,Igowati%20Lodge%20Campsite%20-%20Khorixas;17.078569,-22.564673,Internet(Wlan)%20Protea%20Hotel%20F%C3%BCrstenhof;13.877449,-19.259977,Khowarib%20Lodge;13.254919,-16.998596,King%20Fisher%20Camp;13.882384,-17.355158,Kunene%20River%20Lodge%20Campsite;12.816002,-18.902085,Lodge;14.685116,-20.727124,Madisa%20Reception%20%26%20Bar;12.585633,-17.985628,Marble%20Camp;13.249544,-17.001666,Motjikutu%20Camp;13.271871,-17.431977,Okanguati;13.273673,-17.427986,Okanguati%20-%20Pub%20%2F%20Fuel;13.832774,-17.331276,Okuvare%20Camp;14.078238,-19.362959,Ombonde%20Track;13.923798,-19.299653,Omeva%20Omuri%20Community%20Camp;14.847765,-19.620638,Oppi%20Koppi%20Restcamp;13.833375,-18.044615,Opuwo%20Country%20Lodge;13.833439,-18.049808,Opuwo%20Country%20Lodge%20Campsite;12.563617,-18.160057,Orupempe%20Shop%201;12.855721,-17.629387,Otjitanda;12.751951,-17.641232,Otjitanda%20Community%3A%20Van%20Zyl's%20Pass%20Campsite;13.689244,-17.248857,Otjiwewa%20Community%20Camp;14.985502,-20.877435,Ozohere%20Campsite;13.936908,-19.885683,Palmwag%20Lodge;12.942624,-18.734887,Puros%20Community%20Campsite;12.568252,-17.922821,Rooidrum%20Pass;15.20143,-21.838717,Spitzkoppe%20Campsite%20%26%20Restcamp;15.174737,-21.813934,Spitzkoppen%20Lodge;12.667708,-17.66269,Split1;12.523041,-17.796092,Split2;13.518162,-17.664986,Split3;13.732867,-17.477059,Split4;13.225737,-17.246346,Split5;12.708178,-17.639151,Van%20Zyl's%20Pass;12.695446,-17.655689,van%20Zyls%20Pass;12.817075,-18.889253,Viewpoint%20Over%20Hoarusib&amp;profile=fastbike" class="external">Brouter<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h3 id="trip-details">Trip details<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#trip-details" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>**Herewith a very short summary of the Namibia tour that is on offer:**  
+  
+Kaokoland and Damaraland safari with Khwela Adventures &amp; Specialised Adventures  
+  
+  
+This includes the following:  
+  
+- All the accommodation fees in Namibia  
+- Tent, stretcher, mattress &amp; camping chair  
+- All cutlery &amp; crockery  
+- Breakfast, lunch packs &amp; supper  
+- Fresh water and Cold drinks  
+- Ice when available - 60% of the trip  
+- Backup and recovery vehicles  
+- Medical officer  
+- Aerial evacuation arrangements with an Evacuation Company. (You will need to notify your medical aid of your intention to ride in Namibia and send us written confirmation of coverage)  
+- Fuel for your bike in the areas where no fuel is available - with the understanding that you fill your bike where it is available. (budget around R1000 for it)  
+- Daily briefing on the route for the day.  
+- Tracks and routes (depending on your preferred format) uploaded to your GPS.  
+- Tools.  
+- Compressors.  
+- Puncture repair equipment.  
+- Satellite phone (For emergencies in the remote areas, where there is no Wi-Fi and you need to re-assure the plaintiff that you are in fact still alive)  
+   
+Our route for the Namibia tour will take you through Damaraland and Kaokoland and you will ride through and see places like Spitzkoppe, Van Zyl's pass, the Marienfluss, Purros Canyon, Brandberg and much more. Our Namibia trips are usually 12 days in total.  
+  
+We will also assist in getting your bike to Namibia and back wherever possible at a very reasonable fee. We are based in Loxton and Pretoria and riders that fly to Windhoek will have to get their bikes to us.  
+  
+We can only take 16 riders per trip, so please make sure you book asap.  
+  
+These trips are not races. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. The average rider will in all likelihood stop and take pictures 20 times a day. You will need some degree of skill and experience as we will ride some sand and rocky mountain passes during the trip.  
+  
+You will have to ride with a camel back, and take re-hydrates daily, as dehydration becomes your worst enemy in the desert.  
+  
+  
+I highly recommend that you give Hardy (our tour leader) a call for any questions that you may have. He would be the best person to speak to regarding the area's where we conduct our tours, as well as any logistical questions you may have. His number is 082 784 0729
+</code></pre>
+<h3 id="date">Date<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#date" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h3 id="support-vehicles">Support vehicles<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#support-vehicles" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="https://www.youtube.com/watch?v=nTI8UnxAYfs" class="external">van Zyl’s pass<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://www.youtube.com/watch?v=_j8406japnk" class="external">Good overview of van Zyl’s pass<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://www.youtube.com/watch?v=gqvZ4gN9oUM" class="external">Soul Tonic life series - Great!<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://www.youtube.com/watch?v=P7gT5q9QTRo" class="external">One of the greatest offroad passes<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><a href="https://www.youtube.com/watch?v=Q7aCwGyZ_Yg" class="external">Afrika - Overland series<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Note - there is an alternate route down</p>
+<h3 id="contacts-in-namibia">Contacts in Namibia<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#contacts-in-namibia" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Trans-Kalahari Corridor Secretariat +264 61 250 071
+Ministry of Works,Transport and Communications  +264 61 2088111
+Road Fund Administration +264 61 433 3000
+Road Authority +264 61 284 7000
+Ministry of Environment and Tourism +264 61 284 2111
+Namibia Tourism Board +264 61 2906000
+Museums Association of Namibia +264 61 302230
+Ministry of Trade and Industry +264 61 283 7258
+Ministry of Industrialisation, Trade and SME Development+264 65 251 087
+Namibia Revenue Agency +264-61-2099111/ +264 61 411 800</p>
+<h3 id="route">Route<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#route" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Trailer There (2 days)</p>
+<p>Start Date 03-08-2025 (Monday)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th><em>Weekday</em></th><th><em>Day</em></th><th><em>From</em></th><th><em>To</em></th><th><em>Est Time</em></th><th><em>Distance</em></th><th><em>Fuel stop</em></th><th><em>Refuel</em></th><th><em>Fuel consumed</em></th><th><em>Lodging  Avail</em></th><th><em>Water</em></th><th><em>Replenishment</em></th><th><em>Camp Site</em></th><th><em>Contact details</em></th><th><em>Notes</em></th></tr></thead><tbody><tr><td>Mon</td><td>01</td><td>Henties</td><td>Spitzkoppe</td><td>5h</td><td>150kms</td><td>-</td><td></td><td>150</td><td>Yes</td><td></td><td>-</td><td>Camp Site</td><td></td><td>Sleep under the stars</td></tr><tr><td>Tue</td><td>02</td><td>Spitzkoppe</td><td>Brandberg</td><td>4.5h</td><td>155kms</td><td>UIS (~135kms)</td><td>~285</td><td>35</td><td>Yes</td><td></td><td>Water?</td><td>White Lady</td><td></td><td>Sleep under the stars</td></tr><tr><td>Wed</td><td>03</td><td>Brandberg</td><td>Palmwag</td><td>5.5h</td><td>190kms</td><td>Palmwag</td><td>~225</td><td></td><td>Yes</td><td></td><td></td><td>Palmwag Lodge Campsite</td><td></td><td>Sleep under the stars</td></tr><tr><td>Thur</td><td>04</td><td>Palmwag</td><td>Opuwo</td><td>4h</td><td>235kms</td><td>Opuwo</td><td>~235</td><td></td><td>Yes</td><td></td><td>Everything</td><td>Opuwo Country Lodge Campsite</td><td></td><td>Sleep under the stars</td></tr><tr><td>Fri</td><td>05</td><td>Opuwo</td><td>Epupa</td><td></td><td></td><td></td><td></td><td></td><td>Yes</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sat</td><td>06</td><td>Epupa</td><td>vz Riverside</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Sun</td><td>07</td><td>vz Riverside</td><td>Marble</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mon</td><td>08</td><td>Marble</td><td>Puros</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tue</td><td>09</td><td>Puros</td><td>Khowarib</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Wed</td><td>10</td><td>Khowarib</td><td>Palmwag?</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Thu</td><td>11</td><td>Palmwag?</td><td>Henties</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Fri</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div>
+<h3 id="assigned-responsibilities">Assigned responsibilities<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#assigned-responsibilities" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p></p><blockquote class="transclude" data-url="Sketch" data-block data-embed-alias="undefined"><a href="./Sketch" class="transclude-inner internal alias" data-slug="Sketch">Transclude of Sketch</a></blockquote><p></p>
+<p>Tyres / Spares / Puncture repairs - Andrew
+Hydration - Barry
+Routes - Rainer
+Lodges / Campsites - Rainer
+Finances / Receipt / Deposits / Payments - Ludwig
+Fuel Reserves / Refilling - Marc
+Trailer(s) / Transporting / Stowage - Mike
+Communications (Internal / External) - Derek
+Emergency planning - Gunther
+Stock / Meals / Ingredients - Mark
+Supplies / Replenishment - Barry
+Spares / Puncture / Tools - Keith
+Support vehicles -
+Camping amenities  -
+Logistics - There &amp; Back -
+Refrigeration -
+Medical provisions / capability -
+Cross Border admin - Paperwork / Insurance / Cellular / Veternary</p>
+<h3 id="costs">Costs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#costs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<pre><code>R22,500.00 per person (excluding flights and bike transport).
+
+Bike transport from JHB return R900.00
+
+Group Flight Booking From JHB to Windhoek est R3000.00
+
+Regards Treffon &amp; Mark
+</code></pre>
+<h3 id="stop-overs">Stop overs<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#stop-overs" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Khowarib is a little community smack bang on the C43 en route to Opuwo. It’s not well known, but that’s precisely what makes it so special. It’s a hidden gem and a wonderful place to stop to break up the long journey in Kaokoland, especially if you’re on your way to Opuwo from destinations further south. </p>
+<p>What makes it so special? Well, Khowarib is set at precisely the position where the desert begins to meet the tropics. There’s still a desert vibe, but vegetation becomes more lush and – gasp! – there’s even water in the river! It reminds us of the area around the <a href="https://exploretraveloasis.com/jatbula-trail/" class="external">Jatbula Trail<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a> in Australia. </p>
+<p><strong>With not a lot of visitors, Khowarib is also incredibly tranquil. There’s not a ton to do here, but if it’s relaxing you’re after, look no further.</strong> </p>
+<h4 id="where-to-stay-in-khowarib"><strong>Where to Stay in Khowarib</strong><a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#where-to-stay-in-khowarib" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>There are <a href="https://www.stay22.com/allez/roam?aid=traveloasis&amp;campaign=exploretraveloasis-kaokolandepupafalls&amp;product=lma&amp;habl=false&amp;isinc=false&amp;sid22=75a61044-cee9-409b-809c-0c160e63654f&amp;plng=en-US&amp;pageCategory=travel&amp;source=direct&amp;medium=hyperlink&amp;address=Khowarib%2C+Namibia&amp;category=accommodation" class="external">two places to stay in Khowarib<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>, both of which are fine choices. </p>
+<p><strong>Khowarib Community Campsite</strong> </p>
+<p><img src="https://exploretraveloasis.com/wp-content/uploads/2023/08/Kaokoland-Epupa-Falls-12.jpeg" alt="Khowarib Community Camp was one of your favorite campsite in Kaokoland"/></p>
+<p>Khowarib Community Camp was one of our favourite campsites in Kaokoland</p>
+<p><a href="https://openafrica.org/participant/khowarib-schlucht-community-rest-camp/" class="external">Web site<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>Phone: +264 64 402 779</p>
+<h3 id="key-contacts">Key Contacts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#key-contacts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Name:</strong> Nelo Kasaona<br/>
+<strong>Mobile:</strong> <a href="tel:+264817109596" class="external">+264 81 710 9596<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p><strong>Name:</strong> Josephine<br/>
+<strong>Mobile:</strong> +264 81 407 9539</p>
+<h3 id="gps-coordinates">GPS Coordinates<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gps-coordinates" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Latitude:</strong> -19.26622009277343800<br/>
+<strong>Longitude:</strong> 13.88366985321045000</p>
+<hr/>
+<h3 id="khowaib-lodge---camping">Khowaib Lodge - Camping<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#khowaib-lodge---camping" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="https://www.khowarib.com/camping/" class="external">Web site<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h4 id="camping">Camping<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#camping" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p>The campsite has nine camping pitches benefitting from 220V mains electricity and access to a communal ablution block with hot water showers. Each camp has its light, tap and wash-up area, shade port, maintained braai  (BBQ) area, and a rubbish bin. </p>
+<p>The campsites at Khowarib have their own restaurant, bar, swimming pool, and lawn area.</p>
+<p><img src="./attachments/Pasted-image-20251106050710.png" width="auto" height="auto" alt/></p>
+<p>Rate: N600 - 2 adults</p>
+<p>Tel: +264 64 402 779<br/>
+Cell (Lodge direct): [+264 81 2193291](tel:+264 81 2193291)<br/>
+Email: <a href="mailto:reservations@khowarib.com" class="external">reservations@khowarib.com<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h4 id="lodge---self-catering">Lodge - Self catering<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#lodge---self-catering" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><a href="https://www.facebook.com/profile.php?id=100011375422265" class="external">Lodge - Self catering<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a><a href="https://www.instagram.com/khowariblodge/" class="external"><svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>The en-suite tents are a short walk from the lodge to the river bank and either have a double or twin beds. Viewing platforms extend from the front of each tent, shaded by the plentiful mopani trees but affording splendid views of the gorge. The open-air bathrooms are spacious and well equipped, adding to the feeling of indulgence and relaxation that Khowarib Lodge offers.</p>
+<p>Rate: N2150 - per 2 persons</p>
+<p><img src="./attachments/Pasted-image-20251106050759.png" width="auto" height="auto" alt/></p>
+<hr/>
+<h4 id="camp-sites">Camp sites<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#camp-sites" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><a href="./Van-Zyls-Pass" class="internal alias" data-slug="Van-Zyls-Pass">Van Zyls Pass</a></p>
+<h3 id="where-to-get-supplies-in-kaokoland">Where to Get Supplies in Kaokoland<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#where-to-get-supplies-in-kaokoland" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Opuwo is pretty much the only place to stock up on supplies in Kaokoland. Be sure to stock up well, because once you leave Opuwo, you won’t find a hell of a lot else.</strong> </p>
+<p>Fortunately, you can find most services you need in Opuwo. There are two supermarkets: an OK Food and a Spar – OK Food has a better selection than Spar. There are a number of pharmacies in town if you need any medication. </p>
+<p>There are plenty of fuel stations and, helpfully, a solid mechanic if you need to get work done or buy a new tire (trust us, you might). If you find yourself in need of tires or a repair, head to Kunene Outfitters, which is in the orange and black building near the OK Food. </p>
+<p>There are a number of roadside tire repair places in Kaokoland, but they don’t always do the best job. If you need some work on our tires, you’re best off doing so in Opuwo.</p>
+<h3 id="purros">Purros<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#purros" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="./Purros" class="internal" data-slug="Purros">Purros</a></p>
+<h3 id="marble-camp">Marble Camp<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#marble-camp" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="./Etambura-Camp" class="internal alias" data-slug="Etambura-Camp">Etambura Camp</a></p>
+<h3 id="emergency">Emergency<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#emergency" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="evacuation">Evacuation<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#evacuation" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<h4 id="hellivac">Hellivac<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hellivac" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><a href="./Hellivac" class="internal" data-slug="Hellivac">Hellivac</a></p>
+<h4 id="hospital--clinics">Hospital / Clinics<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hospital--clinics" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<h3 id="documents">Documents<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#documents" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Indemnity</p>
+<h4 id="med-aid">Med aid<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#med-aid" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<pre><code>Please fill out the forms and send them back to me by the 30th of April 2019, along with certified copies of the following documents:
+
+- Id
+- Passport
+- Motorcycle natis document
+
+Please keep all the original certified documents and forms so that they can be handed to Janco or Hardy on the day that you drop off your motorcycle with one of them.
+
+Please note that you need to notify your medical aid that you will be traveling in Namibia on motorcycles. We will also need confirmation of coverage from your medical aid or any alternative company you might use for your international travel medical insurance. By providing this information to the evac company ahead of time, it will make the process much smoother in the event of an emergency evac situation.
+
+“Word of advice to the group. Advising your medical insurance (Discovery etc.) that you are headed off into deepest darkest is required but don't let that provide you with false security. Discovery in particular are particularly useless when it comes to supporting you abroad when the proverbial hits the fan. Taking out a decent travel insurance package actually allows for much faster results when it comes to medical treatment, casa-vacs and the likes thereof.”
+</code></pre>
+<h3 id="others-that-have-done-similar-trips">Others that have done similar trips<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#others-that-have-done-similar-trips" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><a href="./Barbara" class="internal" data-slug="Barbara">Barbara</a></p>
+<p><a href="https://www.wildwood.capetown/tours/kaokoland-namibia-special-edition-9-days/" class="external">Wildwood Namibia<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<h3 id="important-contacts">Important Contacts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#important-contacts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<h4 id="dirkie-baard">Dirkie Baard<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dirkie-baard" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><a href="https://www.facebook.com/untamedadventuresnamibia" class="external">https://www.facebook.com/untamedadventuresnamibia<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>This number is on the site: ‪+264 81 295 3807</p>
+<h4 id="johnny-wildwood">Johnny Wildwood<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#johnny-wildwood" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h4>
+<p><a href="https://www.facebook.com/wildwoodtours" class="external">https://www.facebook.com/wildwoodtours<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a></p>
+<p>083 325 2381</p>
+<h3 id="restrictions">Restrictions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#restrictions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><img src="./attachments/WhatsApp-Image-2025-09-07-at-16.04.12_0f733ade.jpg" width="auto" height="auto" alt/></p>
+<p><strong>Overlanders from SA to Namibia, take note of these restrictions: no cooked/processed animal products (frozen suppers, meatballs or chicken drumsticks for padkos, ham for sandwiches, cheese, etc) will be allowed to cross the border - unless you have a valid veterinary import permit. Use the contact details at the bottom of the notice to apply for an own use import permit for cooked/processed animal products (meat and dairy). Follow Drive Nam for a detailed unpacking of this regulation.</strong></p>
+<hr/>
+<p>It’s time to explore the amazing Kaokaveld on two wheels once again!! I’ve done it twice before; 2009 with friends and 2019 with Mark Hardy, from Specialised Adventures.
+Both trips were hyper special - This is a bucket list trip!!</p>
+<p>It is possible to do the trip without support / backup but we’re doing it in style … a support crew reduces risks and makes thing more comfortable, not to mention the joy of riding without luggage!</p>
+<p>We will be organising things on our own - based solely on a cost covering drive. We will be leaning on those of you that have experience to help organise and guide the planning.</p>
+<p>We want to see and explore some of the best parts of that the Kaokaveld and a bit of Damaraland.
+Barabara Muszynski, who’s done extensive research and planning for her own trips has shared her experiences and trip details with me already - giving us a draft version 1 of the route.
+She has graciously offered to share her experience with us and answer questions - she’s part of this group. (Thanks Minxy)</p>
+<p>Introducing the other amigos …</p>
+<p>Covering Support and Logistics, we have …
+George Paneras … A Civil engineer and Retired Business man … aka “The negotiator” … He’s done what many dream of … dozens of 4X4 excursions over the last few decades … he’s well aquainted with 4X4 travels, trailers and in particular, Namibia. With Kaokaveld on his CV and having been to many of the spots we’re heading to - we appreciate the part he will play.</p>
+<p>Barry Corbett … a brewmaster by day, IT Tech specialist and a Removal man … the best man to keep us going and our hunger and thirst in check!</p>
+<p>Engineering geeks …
+Mike Puzey … a legend in his own right … a mechanical wizard … what he doesn’t know isn’t worth knowing…
+Gunther Wurcher … creative steel works guru … Not very good with GPS … got a few scars as evidence of his love for offroad
+Andrew Ernst … a passionate engineer … knows a few things about about tech</p>
+<p>Other amigos…
+Derek Lubbe … A classier architect you’ll struggle to find … has a massive passion for two wheel adventure … spent many weeks touring Namibia on two wheels … also known to strum a good tune
+Chris and brother Andrew Ogden … the quite assassins … demons on two wheels … Chris Amageza finisher … EC Based
+Ludgwig Buchner (Ludo) … almost good at almost anything … Amageza last man standing … Insurance boff
+Marc (Mooch) … always in for the good times … not scared of much … and got the scars to show for it!
+Keith Lyon … Two wheels is like duck to water -  this trip should put some spice back in his pond
+Florian Emil … Austrian Nutter .. Anything goes … Ridden Africa top to bottom and back … Need extra beer just for FLo</p>
+<p>Nearly 50% Zimbo’s in the lineup … I can see beer planning becoming a top priority</p>
+<p>General Notes:</p>
+<p>Riding will be a mix of gravel, jeeptrack, riverbed and some rocky and mountainous tracks.
+We will be going over a few passes including the well known van Zyl’s pass. Be prepared for a fair amount of soft sand.
+The larger the bike the more sweat. 500 - 700cc sized bikes with a minimum of 300kms range are ideal.</p>
+<p>Many of the planned stop overs have campsites and refuelling facilities but there are a few days where we will be very remote - which means good fuel range needed with some reserves on board.</p>
+<p>There are subgroubs created in this community group. Join the groups you’re interested in following or contributing.
+Please post in the relevant group. (e.g., don’t drop tyre questions in the Meals group).
+This is a closed community. Community admins will be myself and the support and logistics team.</p>
+<p>Even though there are names associated with topics everyone is encouraged to participate in the detailed planning …
+The general plan is to get all the suggestions / ideas and decisions into a single collection for each topic. The names listed below will help to facilitate that.</p>
+<p>Routes 📍 - Rainer
+Support 🚚 - George
+To Henties &amp; back 🚛 - George
+Camping &amp; Lodging ⛺ - Rainer
+Rider details ✝️ - Rainer
+Medical &amp; Emergencies 🚨 - George
+Costs 🤑 - Rainer
+Supplies 🎰 - Barry
+Meals 🥘 - Barry
+Trailers 🚛 - Gunther &amp; MikeP
+Hydration 🥤 - Barry
+Tyres / Mousses / Repairs ⚽ - Andrew Ernst
+Camping amenities ⛺ - George
+Communication 📡 - Andrew &amp; George
+Fuel ⛽ - George &amp; TBA
+Refrigeration &amp; Ice 🧊 - George
+Border control, papers etc. 🛂 - George
+Power, chargers etc. 🔌 - George
+Tools / Spares - 🧰 George &amp; Andrew</p>
+<p>Use the General group for general banter.</p>
+<p><img src="./attachments/Pasted-image-20251029162501.png" width="auto" height="auto" alt/></p></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-0" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#maps" data-for="maps">Maps</a></li><li class="depth-0"><a href="#trip-details" data-for="trip-details">Trip details</a></li><li class="depth-0"><a href="#date" data-for="date">Date</a></li><li class="depth-0"><a href="#support-vehicles" data-for="support-vehicles">Support vehicles</a></li><li class="depth-0"><a href="#contacts-in-namibia" data-for="contacts-in-namibia">Contacts in Namibia</a></li><li class="depth-0"><a href="#route" data-for="route">Route</a></li><li class="depth-0"><a href="#assigned-responsibilities" data-for="assigned-responsibilities">Assigned responsibilities</a></li><li class="depth-0"><a href="#costs" data-for="costs">Costs</a></li><li class="depth-0"><a href="#stop-overs" data-for="stop-overs">Stop overs</a></li><li class="depth-0"><a href="#key-contacts" data-for="key-contacts">Key Contacts</a></li><li class="depth-0"><a href="#gps-coordinates" data-for="gps-coordinates">GPS Coordinates</a></li><li class="depth-0"><a href="#khowaib-lodge---camping" data-for="khowaib-lodge---camping">Khowaib Lodge - Camping</a></li><li class="depth-0"><a href="#where-to-get-supplies-in-kaokoland" data-for="where-to-get-supplies-in-kaokoland">Where to Get Supplies in Kaokoland</a></li><li class="depth-0"><a href="#purros" data-for="purros">Purros</a></li><li class="depth-0"><a href="#marble-camp" data-for="marble-camp">Marble Camp</a></li><li class="depth-0"><a href="#emergency" data-for="emergency">Emergency</a></li><li class="depth-0"><a href="#documents" data-for="documents">Documents</a></li><li class="depth-0"><a href="#others-that-have-done-similar-trips" data-for="others-that-have-done-similar-trips">Others that have done similar trips</a></li><li class="depth-0"><a href="#important-contacts" data-for="important-contacts">Important Contacts</a></li><li class="depth-0"><a href="#restrictions" data-for="restrictions">Restrictions</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="./postscript.js" type="module" data-persist="true"></script></html>
