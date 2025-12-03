@@ -8,6 +8,9 @@
 | [[2. Program]]                         |     |
 | [[3. Day 1 - Henties to Spitzkoppe]]   |     |
 | [[4. Day 2 - Spitzkoppe to Brandberg]] |     |
+|                                        |     |
+|                                        |     |
+| [[20. Lone men of Namibia]]            |     |
 
 ---
 
