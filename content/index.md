@@ -16,14 +16,23 @@
 
 ### Summary of the Expedition
 
-This Expedition will take us through Damaraland and Kaokoland (the Erongo and Kunene regions); we'll ride through and see very cool places like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more.
+This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for those on bikes - you will be witnessing changing conditions right under you feet. 
 
+Unlike some solo travellers without support, like Martin Malec and Johan and Barbara, we've opted to go for a little more comfort making us lighter and more agile and a more enjoyable experience with  less fatigue going through the varied terrain - deep sand, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
+
+---
+
+### Map of the Expedition
+
+[Trip Routes](https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing)
+
+[Tracks4Africa Map](https://tracks4africa.co.za/maps/africa/)
 
 ![[Offroad route.png]]
 
 We will **travel 1,930kms** over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
   
-Transport will be arranged for the bikes into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
+We will trailer all the bikes together, into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
   
 This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
 
