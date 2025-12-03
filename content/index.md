@@ -2,33 +2,33 @@
 
 ![[Namibia-2026.png]]
 
-| **ITINIARY**                         |     |
-| ------------------------------------ | --- |
-| [[1. Getting there]]                 |     |
-| [[2. Program]]                       |     |
-| [[3. Day 1 - Henties to Spitzkoppe]]            |     |
+| **CONTENTS**                           |     |
+| -------------------------------------- | --- |
+| [[1. Getting there]]                   |     |
+| [[2. Program]]                         |     |
+| [[3. Day 1 - Henties to Spitzkoppe]]   |     |
+| [[4. Day 2 - Spitzkoppe to Brandberg]] |     |
 
-
+---
 ## Overview
 
 ![[Namibia general map2.png]]
 
 ### Summary of the Expedition
 
-```
-This Expedition will take us through Damaraland and Kaokoland; we will ride through and see places like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valey and a bunch more.  
-```
+This Expedition will take us through Damaraland and Kaokoland (the Erongo and Kunene regions); we'll ride through and see very cool places like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more.
+
 
 ![[Offroad route.png]]
 
-```
-We will travel 1,930kms over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. You will need a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
+We will **travel 1,930kms** over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
   
-Transport is arranged to getting bikes to Namibia. We will indicate where and when to deliver your bikes and all the mandatory documentation. 
+Transport will be arranged for the bikes into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
   
-This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing eaqually to the costs. We will arrange, where possible spares etc. on a return basis.  
+This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
 
-This expedition includes:  
+---
+### This expedition includes:  
   
 - All the accommodation in Namibia (mostly camping) 
 - Bring your own Stretcher, sleeping bag & camping chair  
@@ -37,22 +37,19 @@ This expedition includes:
 - Fresh water and refreshments  
 - Fridge / Freezer - Ice when available  
 - Backup and recovery vehicles  
-- Medical / First-aid assistance (George & Andrew)  
+- Medical support / First-aid kit and assistance from George & Andrew
 - Aerial evacuation arrangements with an Evacuation Company. ???  
-- Fuel for bikes in areas where no fuel is available. Filling bike where available. (budget around R2000/pp)  
+- Backup  fuel for bikes in areas where no fuel is available. We'll all fill wherever possible. (**budget around R2000/pp**) 
 - Tracks / Routes to upload to your GPS.  
-- Tools. Each biker / biker pais to carry own basic tools and tyre repair. 
+- General Tools. (Note: Each biker / biker pair to carry own basic tools and tyre repair). 
 - Tyre Air Compressor.  
 - Puncture repair equipment.
 - Limited bike spares and accessories.
 - 2 X Satellite phones (For emergencies in the remote areas, where there is no Cell / Wi-Fi)
 - Walkie talkies for Support vehicles & Sweeper. Riders recommended to use intercom system.
   
+ ---
  
-```
-
-
-
 ### Erongo Region
 
 [Erongo Region](https://www.namibweb.com/erongoregion.htm)  
@@ -72,6 +69,7 @@ Various mining operations occur within this region at places such as [Navachab]
 This region, with its link to the coast of Namibia, is well developed and should not experience any difficulty in functioning as an administrative unit. Facilities such as schools, hospitals and clinics, the supply of electricity and telecommunication services are, with a few exceptions, well established. The linkage of this predominantly farming area with the more developed areas such as Swakopmund and Walvis Bay is territorially justified and can only be to their advantage.  
 The region comprises of six constituencies: Omaruru, Karibib, Brandberg, Arandis, Swakopmund, Walvis Bay.
 
+---
 ### Kunene Region
   
 [Kunene Region](https://www.namibweb.com/kuneneregion.htm)  
@@ -86,3 +84,5 @@ At its main centers, the region has facilities such as primary and secondary sch
 
 Furthermore a lively trade has developed between this western part of former Ovambo and more particularly the people of former eastern Kaokoland. There is also evidence that people from former Ovambo have moved into former Kaokoland and vice versa.   
 The region has been divided into the following six constituencies: Ruacana, Opuwo, Sesfontein, Khorixas, Kamanjab and Outjo.
+
+---
