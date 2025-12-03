@@ -8,7 +8,7 @@
 | [[2. Program]]                         |     |
 | [[3. Day 1 - Henties to Spitzkoppe]]   |     |
 | [[4. Day 2 - Spitzkoppe to Brandberg]] |     |
-|                                        |     |
+| 5. Day 3 - Palmwag                     |     |
 |                                        |     |
 | [[20. Lone men of Namibia]]            |     |
 
@@ -37,13 +37,14 @@ We will trailer all the bikes together, into and out of Namibia. At the appropri
   
 This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
 
+---
 ### Acknowledgements
 
-A big shoutout to Barbara Muzinski for providing invaluable guidance to planning this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
+A big shoutout to **Barbara Muzinski** for providing invaluable guidance to planning this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
 
-Shout out to Martin Malec and Hardy de Kock, who also shared important  information having travelled these parts on many occasions.
+Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
 
-Something we have to keep in mind is the weather conditions prior to our trip, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
 
 ---
 ### This expedition includes:  
