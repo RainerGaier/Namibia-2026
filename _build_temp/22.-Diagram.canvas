@@ -1,17 +1,18 @@
 {
 	"nodes":[
-		{"id":"00cdfc0e6624c21b","type":"group","ratio":1.7777777777777777,"x":-620,"y":-300,"width":1200,"height":675,"label":"Start Slide"},
+		{"id":"f734afcd31ed8477","type":"file","file":"My Stuff/Namibia/Index/attachments/Pasted image 20251203153909.png","x":-680,"y":-640,"width":400,"height":206},
+		{"id":"b33d8a11ddcaea07","type":"file","file":"My Stuff/Namibia/Index/attachments/Pasted image 20251203153337.png","x":-540,"y":-400,"width":400,"height":300},
 		{
 			"id":"e2349d413575d4ec",
 			"type":"text",
-			"text":"Hello",
-			"styleAttributes":{},
-			"x":-580,
-			"y":-240,
+			"text":"   H E L L O",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-470,
+			"y":-760,
 			"width":260,
-			"height":60
-		},
-		{"id":"f734afcd31ed8477","type":"file","file":"My Stuff/Namibia/Index/attachments/Pasted image 20251203153909.png","x":-580,"y":-120,"width":400,"height":206}
+			"height":60,
+			"color":"1"
+		}
 	],
 	"edges":[],
 	"metadata":{
