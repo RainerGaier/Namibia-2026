@@ -10,9 +10,6 @@
 | [[4. Day 2 - Spitzkoppe to Brandberg]] |     |
 
 ---
-## Overview
-
-![[Namibia general map2.png]]
 
 ### Summary of the Expedition
 
@@ -21,7 +18,6 @@ This Expedition will take us through some of the most geographically diverse and
 Unlike some solo travellers without support, like Martin Malec and Johan and Barbara, we've opted to go for a little more comfort making us lighter and more agile and a more enjoyable experience with  less fatigue going through the varied terrain - deep sand, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
 
 ---
-
 ### Map of the Expedition
 
 [Trip Routes](https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing)
@@ -58,12 +54,15 @@ This expedition is not to make money and is therefore on a cost covering basis. 
 - Walkie talkies for Support vehicles & Sweeper. Riders recommended to use intercom system.
   
  ---
- 
+## Regional map
+
+![[Namibia general map2.png]]
+
 ### Erongo Region
 
-[Erongo Region](https://www.namibweb.com/erongoregion.htm)  
+<a href="https://www.namibweb.com/erongoregion.htm" target="_blank" rel="noopener">Erongo Region</a>
 
-This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former [Damaraland](https://www.namibweb.com/damaraland.htm) south of the Ugab river, and the Omaruru and Karibib magisterial districts. 
+This region comprises the Swakopmund magisterial district up to the Ugab river and includes the enclave of Walvis Bay, former <a href="https://www.namibweb.com/damaraland.htm" target="_blank" rel="noopener">Damaraland</a> south of the Ugab river, and the Omaruru and Karibib magisterial districts. 
 
 This region is named after the Erongo mountain, a well known landmark in Namibia and in this area. All the main centres within this region, excepting south of former Damaraland, are connected by tarred roads. Gravel roads link this this part with either Omaruru or Swakopmund. 
 
@@ -81,7 +80,7 @@ The region comprises of six constituencies: Omaruru, Karibib, Brandberg, Arandis
 ---
 ### Kunene Region
   
-[Kunene Region](https://www.namibweb.com/kuneneregion.htm)  
+<a href="https://www.namibweb.com/kuneneregion.htm" target="_blank" rel="noopener">Kunene Region</a>
 
 This region comprises the western part of former Ovambo, Koakoland, Damaraland north of the Ugab river and the Magisterial District of Outjo. This region is named after the Kunene river which forms the north-western border of this particular region. With its large supply of water and its hydro-electric plant, this river will play an increasingly important role in Namibia.   
 
