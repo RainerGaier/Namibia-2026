@@ -23,9 +23,11 @@ Unlike some solo travellers without support, like Martin Malec and Johan and Bar
 ---
 ### Map of the Expedition
 
-[Trip Routes](https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing)
+<a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Trip Routes</a>
 
-[Tracks4Africa Map](https://tracks4africa.co.za/maps/africa/)
+<a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map</a>
+
+
 
 ![[Offroad route.png]]
 
@@ -35,13 +37,21 @@ We will trailer all the bikes together, into and out of Namibia. At the appropri
   
 This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
 
+### Acknowledgements
+
+A big shoutout to Barbara Muzinski for providing invaluable guidance to planning this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
+
+Shout out to Martin Malec and Hardy de Kock, who also shared important  information having travelled these parts on many occasions.
+
+Something we have to keep in mind is the weather conditions prior to our trip, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+
 ---
 ### This expedition includes:  
   
 - All the accommodation in Namibia (mostly camping) 
 - Bring your own Stretcher, sleeping bag & camping chair  
 - All cutlery, crockery, cooking utilities & equipment
-- Breakfast, lunch packs & meals (supper - eating out where available) 
+- Breakfast, lunch packs & dinner (eating out where available) 
 - Fresh water and refreshments  
 - Fridge / Freezer - Ice when available  
 - Backup and recovery vehicles  
@@ -75,7 +85,8 @@ Medical services are rendered at the clinics of Omatjette, Okombahe, and Uis by 
 
 The Omaruru, Karibib and Okombahe/Uis/Tsubeses areas are all situated in a semi-arid farming region and have a homogenous farming pattern, which is mostly stock-raising. It also combines communal farming with commercial farming. The needs for production and marketing are therefore very similar and the farming community has a distinct mutual interest which distinguishes their area from the Okahandja/Otjiwarongo areas which are different in various aspects.  
 
-Various mining operations occur within this region at places such as [Navachab](https://www.namibweb.com/navachab.htm) and on a smaller scale at places surrounding Uis and the desert area. Karibib also has a marble industry. Walvis Bay is the principle home of Namibia's fishing industry. Arandis supports mining industry and Swakopmund boasts manufacturing. Arandis is also an [Export Processing Zone (EPZ)](https://www.namibweb.com/epz.htm).  
+Various mining operations occur within this region at places such as  <a href="https://www.namibweb.com/navachab.htm" target="_blank" rel="noopener">Navachab</a> 
+ and on a smaller scale at places surrounding Uis and the desert area. Karibib also has a marble industry. Walvis Bay is the principle home of Namibia's fishing industry. Arandis supports mining industry and Swakopmund boasts manufacturing. Arandis is also an <a href="https://www.namibweb.com/epz.htm" target="_blank" rel="noopener">Export Processing Zone (EPZ)</a>.  
 
 This region, with its link to the coast of Namibia, is well developed and should not experience any difficulty in functioning as an administrative unit. Facilities such as schools, hospitals and clinics, the supply of electricity and telecommunication services are, with a few exceptions, well established. The linkage of this predominantly farming area with the more developed areas such as Swakopmund and Walvis Bay is territorially justified and can only be to their advantage.  
 The region comprises of six constituencies: Omaruru, Karibib, Brandberg, Arandis, Swakopmund, Walvis Bay.
