@@ -5,7 +5,7 @@
 | **CONTENTS**                                           |     |
 | ------------------------------------------------------ | --- |
 | [[1. Getting there]]                                   |     |
-| [[2. Program]]                                         |     |
+| [[2. Daily schedule]]                                         |     |
 | [[3. Day 1 - Henties to Spitzkoppe]]                   |     |
 | [[4. Day 2 - Spitzkoppe to Brandberg]]                 |     |
 | [[5. Day 3 - Palmwag]]                                 |     |
