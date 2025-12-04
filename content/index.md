@@ -11,7 +11,8 @@
 | [[5. Day 3 - Palmwag]]                                 |     |
 |                                                        |     |
 | [[20. Lone men of Namibia]]                            |     |
-| [[29. Significant Rivers sections riding or crossing]] |     |
+| Vetenary constraints and considerations                |     |
+| [[29. Major river sections & crossings]] |     |
 | [[30. Latest Country Information]]                     |     |
 | [[31. The River system in Namibia]]                    |     |
 

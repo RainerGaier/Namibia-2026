@@ -1,28 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>Nam Expedition 2026</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on Nam Expedition 2026</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>31. The River system in Namibia</title>
-    <link>https://quartz.jzhao.xyz/31.-The-River-system-in-Namibia</link>
-    <guid>https://quartz.jzhao.xyz/31.-The-River-system-in-Namibia</guid>
-    <description><![CDATA[ Namibia Rivers Map — a general country-wide map showing rivers, major waterways and their courses. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 03:36:43 GMT</pubDate>
-  </item><item>
     <title>29. Significant Rivers sections riding or crossing</title>
     <link>https://quartz.jzhao.xyz/29.-Significant-Rivers-sections-riding-or-crossing</link>
     <guid>https://quartz.jzhao.xyz/29.-Significant-Rivers-sections-riding-or-crossing</guid>
     <description><![CDATA[  Important Because we’ll be travelling on motorcycles and backup vehicles and crossing many rivers in Namibia (or southern Africa), having up-to-date information on river levels and flow / flood risk is very important. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 03:25:45 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
+  </item><item>
+    <title>3. Day 1 - Henties to Spitzkoppe</title>
+    <link>https://quartz.jzhao.xyz/3.-Day-1---Henties-to-Spitzkoppe</link>
+    <guid>https://quartz.jzhao.xyz/3.-Day-1---Henties-to-Spitzkoppe</guid>
+    <description><![CDATA[ Up the Umaruru river We will have to confirm the conditions of the riverbeds prior to doing this and other sections of the route, but assuming conditions are good, we’ll travel about 80kms inside the Umaruru riverbed, hang right and head down to Spitzkoppe. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
   </item><item>
     <title>30. Latest Country Information</title>
     <link>https://quartz.jzhao.xyz/30.-Latest-Country-Information</link>
     <guid>https://quartz.jzhao.xyz/30.-Latest-Country-Information</guid>
     <description><![CDATA[ Umaruru river 2025 Video - High levels. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 01:10:29 GMT</pubDate>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
+  </item><item>
+    <title>31. The River system in Namibia</title>
+    <link>https://quartz.jzhao.xyz/31.-The-River-system-in-Namibia</link>
+    <guid>https://quartz.jzhao.xyz/31.-The-River-system-in-Namibia</guid>
+    <description><![CDATA[ Namibia Rivers Map — a general country-wide map showing rivers, major waterways and their courses. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
+  </item><item>
+    <title>5. Day 3 - Brandberg to Palmwag</title>
+    <link>https://quartz.jzhao.xyz/5.-Day-3---Brandberg-to-Palmwag</link>
+    <guid>https://quartz.jzhao.xyz/5.-Day-3---Brandberg-to-Palmwag</guid>
+    <description><![CDATA[ A 190km of mixed riding. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Namibia 2026 Expedition CONTENTS1. Getting there2. Program3. Day 1 - Henties to Spitzkoppe4. Day 2 - Spitzkoppe to Brandberg5. Day 3 - Palmwag20. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 03:39:14 GMT</pubDate>
+  </item><item>
+    <title>29. Major river sections &amp; crossings</title>
+    <link>https://quartz.jzhao.xyz/29.-Major-river-sections--and--crossings</link>
+    <guid>https://quartz.jzhao.xyz/29.-Major-river-sections--and--crossings</guid>
+    <description><![CDATA[  Important Because we’ll be travelling on motorcycles and backup vehicles and crossing many rivers in Namibia (or southern Africa), having up-to-date information on river levels and flow / flood risk is very important. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 03:25:45 GMT</pubDate>
   </item><item>
     <title>20. Lone men of Namibia</title>
     <link>https://quartz.jzhao.xyz/20.-Lone-men-of-Namibia</link>
@@ -36,34 +60,10 @@
     <description><![CDATA[ { &quot;type&quot;: &quot;FeatureCollection&quot;, &quot;features&quot;: [ { &quot;type&quot;: &quot;Feature&quot;, &quot;id&quot;: 1, &quot;properties&quot;: { &quot;ID&quot;: 0 }, &quot;geometry&quot;: { &quot;type&quot;: &quot;Polygon&quot;, &quot;coordinates&quot;: [ [ [-90,35], [-90,30], [-85,3... ]]></description>
     <pubDate>Thu, 04 Dec 2025 00:16:46 GMT</pubDate>
   </item><item>
-    <title>5. Day 3 - Brandberg to Palmwag</title>
-    <link>https://quartz.jzhao.xyz/5.-Day-3---Brandberg-to-Palmwag</link>
-    <guid>https://quartz.jzhao.xyz/5.-Day-3---Brandberg-to-Palmwag</guid>
-    <description><![CDATA[ A 190km of mixed riding. ]]></description>
-    <pubDate>Thu, 04 Dec 2025 00:16:46 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Namibia 2026 Expedition CONTENTS1. Getting there2. Program3. Day 1 - Henties to Spitzkoppe4. Day 2 - Spitzkoppe to Brandberg5. Day 3 - Palmwag20. ]]></description>
-    <pubDate>Wed, 03 Dec 2025 13:40:21 GMT</pubDate>
-  </item><item>
     <title>1. Getting there</title>
     <link>https://quartz.jzhao.xyz/1.-Getting-there</link>
     <guid>https://quartz.jzhao.xyz/1.-Getting-there</guid>
     <description><![CDATA[ Route Border duties Pre-requisites Bikes need to be road registered and licenced beyond the Expedition end date. ]]></description>
-    <pubDate>Wed, 03 Dec 2025 01:45:53 GMT</pubDate>
-  </item><item>
-    <title>2. Program</title>
-    <link>https://quartz.jzhao.xyz/2.-Program</link>
-    <guid>https://quartz.jzhao.xyz/2.-Program</guid>
-    <description><![CDATA[  DayDateWeekdayFromToDistanceEst Time108/08/2026SatJhbGobabis1,15013h209/08/2026SunGobabisHenties6356.5h310/08/2026MonHentiesSpitzkoppe1505h411/08/2026TueSpitzkoppeBrandberg1554.5h512/08/2026WedBrandbergPalmwag1905.5h613/08/2026ThurPalmwagKhowarib1264h714/08/2026FriKhowaribOpuwo1833.5h815/08/2026Sat... ]]></description>
-    <pubDate>Wed, 03 Dec 2025 01:45:53 GMT</pubDate>
-  </item><item>
-    <title>3. Day 1 - Henties to Spitzkoppe</title>
-    <link>https://quartz.jzhao.xyz/3.-Day-1---Henties-to-Spitzkoppe</link>
-    <guid>https://quartz.jzhao.xyz/3.-Day-1---Henties-to-Spitzkoppe</guid>
-    <description><![CDATA[ Up the Umaruru river We will have to confirm the conditions of the riverbeds prior to doing this and other sections of the route, but assuming conditions are good, we’ll travel about 80kms inside the Umaruru riverbed, hang right and head down to Spitzkoppe. ]]></description>
     <pubDate>Wed, 03 Dec 2025 01:45:53 GMT</pubDate>
   </item>
     </channel>
