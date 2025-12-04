@@ -20,35 +20,40 @@
 
 ### Summary of the Expedition
 
-This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for those on bikes - you will be witnessing changing conditions right under you feet. 
+This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for bikers ... you will be witnessing changing conditions right under you feet every day. 
 
-Unlike some solo travellers without support, like Martin Malec and Johan and Barbara, we've opted to go for a little more comfort making us lighter and more agile and a more enjoyable experience with  less fatigue going through the varied terrain - deep sand, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
+While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
 
 ---
 ### Map of the Expedition
 
-<a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Trip Routes</a>
+> [!Info]
+> 
+> <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a>
+> 
+> <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>
+> 
 
-<a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map</a>
-
-
+The inland section of the Expedition.
 
 ![[Offroad route.png]]
 
-We will **travel 1,930kms** over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
+>We will **travel 1,930kms** over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
   
-We will trailer all the bikes together, into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
+>We will trailer all the bikes together, into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
   
-This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
+>This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
 
 ---
 ### Acknowledgements
 
+>
 A big shoutout to **Barbara Muzinski** for providing invaluable guidance to planning this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
-
+>
 Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
-
+>
 Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+>
 
 ---
 ### This expedition includes:  
