@@ -33,7 +33,11 @@
 > <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a>
 > 
 > <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>
-> 
+>
+>>[!Important]
+>>Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+>
+
 
 The inland section of the Expedition.
 
@@ -49,11 +53,9 @@ The inland section of the Expedition.
 ### Acknowledgements
 
 >[!Note]
-A big shoutout to **Barbara Muzinski** for providing invaluable guidance to planning this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
+>Gratitude to **Barbara Muzinski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
 >
-Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
->
-Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+>Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
 >
 
 ---
@@ -115,7 +117,11 @@ This region comprises the western part of former Ovambo, Koakoland, Damaraland n
 
 This region is named after the Kunene river which forms the north-western border of this particular region. With its large supply of water and its hydro-electric plant, this river will play an increasingly important role in Namibia.   
 
-At its main centers, the region has facilities such as clinics and hospitals and electrical power supply. 
-
+At its main centres, the region has facilities such as clinics and hospitals and electrical power supply. 
 
 ---
+
+>[!Warning]
+>This site and information has been built for our Expedition group exclusively, please refrain from sharing outside this group. 
+
+
