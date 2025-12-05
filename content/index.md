@@ -10,6 +10,7 @@
 | [[3. Day 1 - Henties to Spitzkoppe]]     |     |
 | [[4. Day 2 - Spitzkoppe to Brandberg]]   |     |
 | [[5. Day 3 - Palmwag]]                   |     |
+| [[6. Day 4 - Palmwag to Khowarib]]       |     |
 |                                          |     |
 | [[20. Lone men of Namibia]]              |     |
 | Vetenary constraints and considerations  |     |
