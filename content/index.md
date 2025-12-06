@@ -27,7 +27,7 @@
 >While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
 
 ---
-### Map of the Expedition
+### Map and routes
 
 > [!Info]
 > 
@@ -35,8 +35,7 @@
 > 
 > <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>
 >
->>[!Important]
->>Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+>>[!todo] Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
 >
 
 
@@ -122,7 +121,6 @@ At its main centres, the region has facilities such as clinics and hospitals and
 
 ---
 
->[!Warning]
->This site and information has been built for our Expedition group exclusively, please refrain from sharing outside this group. 
+>[!Warning] This site and information has been built for our Expedition group exclusively, please refrain from sharing outside this group. 
 
 
