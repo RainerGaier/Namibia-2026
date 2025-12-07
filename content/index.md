@@ -43,11 +43,15 @@ The inland section of the Expedition.
 
 ![[Offroad route.png]]
 
->We will **travel 1,930kms** over 12 days. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
 >
->We will trailer all the bikes together, into and out of Namibia. At the appropriate time we will indicate where and when to deliver your bikes and all the mandatory documentation - of which there is a crap load. 
+>12 days of magical terrain - travelling around 1,900kms to and from Henties bay. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
 >
->This expedition is not to make money and is therefore on a cost covering basis. We have limited this to 10 riders, all contributing equally to the costs. We will arrange, where possible spares etc. on a return basis.  
+>Bikes will be trailered into and out of Namibia. At the appropriate time, you will be notified where and when to deliver your bikes, your kit and all the mandatory documentation - of which there is a crap load. 
+>
+>This expedition is prepared on a cost covering basis. We have limited this to 10 riders, all riders contributing equally to the costs of the fuel,  accommodation, supplies, spares etc. Support crew will contribute to their accommodation, supplies and related costs.
+>
+>We will arrange, where possible, spares etc. on a return basis.  
+>
 
 ---
 ### Acknowledgements
