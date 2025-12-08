@@ -29,17 +29,17 @@
 ---
 ### Map and routes
 
-| **IMPORTANT LINKS**                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a><br> <br><a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a> |
+| **USEFUL LINKS**                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a><br> |
+| <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>                        |
 
->[!todo] Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+>[!todo] We will have to keep *weather conditions prior to our trip* in mind, it could influence the routes. Vetenary and border regulations also need to be checked.
 >
 
 | **EXPEDITION SECTION.** |
 | ----------------------- |
 | ![[Offroad route.png]]  |
-
 
 >
 >12 days of magical terrain - travelling around 1,900kms to and from Henties bay. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
@@ -52,20 +52,28 @@
 >
 
 ---
-### Acknowledgements
 
->[!Note]
->Gratitude to **Barbara Muszynski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
->
->Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
->
-
----
-
-| **Included in this expedition:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| - All the accommodation in Namibia (mostly camping) <br>- Bring your own Stretcher, sleeping bag & camping chair  <br>- All cutlery, crockery, cooking utilities & equipment<br>- Breakfast, lunch packs & dinner (eating out where available) <br>- Fresh water and refreshments  <br>- Fridge / Freezer - Ice when available  <br>- Backup and recovery vehicles  <br>- Medical support / First-aid kit and assistance from George & Andrew<br>- Aerial evacuation arrangements with an Evacuation Company. ???  <br>- Backup  fuel for bikes in areas where no fuel is available. We'll all fill wherever possible. (**budget around R2000/pp**) <br>- Tracks / Routes to upload to your GPS.  <br>- General Tools. (Note: Each biker / biker pair to carry own basic tools and tyre repair). <br>- Tyre Air Compressor.  <br>- Puncture repair equipment.<br>- Limited bike spares and accessories.<br>- 2 X Satellite phones (For emergencies in the remote areas, where there is no Cell / Wi-Fi)<br>- Walkie talkies for Support vehicles & Sweeper. Riders recommended to use intercom system. |
-
+| **Included in this expedition:**                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| - All the accommodation in Namibia (mostly camping) / Bring your own Stretcher, sleeping bag & camping chair  <br>                |
+| - All cutlery, crockery, cooking utilities & equipment<br>                                                                        |
+| - Breakfast, lunch packs & dinner (eating out where available) <br>                                                               |
+| - Fresh water and refreshments  <br>                                                                                              |
+| - Fridge / Freezer - Ice when available  <br>                                                                                     |
+| - Backup and recovery vehicles  <br>                                                                                              |
+| - Medical support / First-aid kit and assistance from George & Andrew<br>                                                         |
+| - Aerial evacuation arrangements with an Evacuation Company. ???  <br>                                                            |
+| - Backup  fuel for bikes in areas where no fuel is available. We'll all fill wherever possible. (**budget around R2000/pp**) <br> |
+| - Tracks / Routes to upload to your GPS.  <br>                                                                                    |
+| - General Tools. (). <br>                                                                                                         |
+| - Tyre Air Compressor.  <br>                                                                                                      |
+| - Puncture repair equipment.<br>lkies for Support vehicles & Sweeper. Riders recommended to use intercom system.                  |
+| - Limited bike spares and accessories.<br>                                                                                        |
+| - 2 X Satellite phones (For emergencies in the remote areas, where there is no Cell / Wi-Fi)<br>                                  |
+| - Walkie talkies                                                                                                                  |
+|                                                                                                                                   |
+> [!Attention] Each biker / biker buddy should carry one set of basic tools and tyre repair
+ 
  ---
 ## Regional map
 
@@ -107,7 +115,16 @@ This region is named after the Kunene river which forms the north-western border
 At its main centres, the region has facilities such as clinics and hospitals and electrical power supply. 
 
 ---
+### Acknowledgements
 
->[!Warning] This site and information has been built for our Expedition group exclusively, please refrain from sharing outside this group. 
+>[!Note]
+>Gratitude to **Barbara Muszynski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
+>
+>Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
+>
+
+---
+
+>[!Warning] This site and information has been built for our Expedition group exclusively, please don't publish it 
 
 
