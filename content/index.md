@@ -22,26 +22,23 @@
 
 ### Summary of the Expedition
 
->This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for bikers ... you will be witnessing changing conditions right under you feet every day. 
->
->While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need. 
+
+| This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for bikers ... you will be witnessing changing conditions right under you feet every day. <br><br>While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need.  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ---
 ### Map and routes
 
-> [!Info]
-> 
-> <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a>
-> 
-> <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>
->
->>[!todo] Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
+
+| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a><br> <br><a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+>[!todo] Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
 >
 
+| **The inland section of the Expedition.**<br><br>![[Offroad route.png]] |
+| ----------------------------------------------------------------------- |
 
-The inland section of the Expedition.
 
-![[Offroad route.png]]
 
 >
 >12 days of magical terrain - travelling around 1,900kms to and from Henties bay. It is a true dual sport adventure in one of the most beautiful and fascinating places on earth. One needs a  degree of sand and technical riding skill and experience covering some sand and rocky mountain passes during the trip. Fitness will play an important role as fatigue is likely to creep in at some point.
