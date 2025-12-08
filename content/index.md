@@ -29,15 +29,16 @@
 ---
 ### Map and routes
 
-
-| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a><br> <br><a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a> |
+| **IMPORTANT LINKS**                                                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">Here are the Routes</a><br> <br><a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a> |
+
 >[!todo] Something we have to keep in mind is the *weather conditions prior to our trip*, and forecast during our trip, that could influence the routes, as well as  vetenary and border regulations.
 >
 
-| **The inland section of the Expedition.**<br><br>![[Offroad route.png]] |
-| ----------------------------------------------------------------------- |
-
+| **EXPEDITION SECTION.** |
+| ----------------------- |
+| ![[Offroad route.png]]  |
 
 
 >
