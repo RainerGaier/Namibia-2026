@@ -57,7 +57,7 @@ The inland section of the Expedition.
 ### Acknowledgements
 
 >[!Note]
->Gratitude to **Barbara Muzinski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
+>Gratitude to **Barbara Muszynski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
 >
 >Shout out to **Martin Malec and Hardy de Kock**, who also shared important  information having travelled these parts on many occasions.
 >
