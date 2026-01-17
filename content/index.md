@@ -14,7 +14,7 @@
 |                                          |     |
 | [[20. Lone men of Namibia]]              |     |
 | Vetenary constraints and considerations  |     |
-| [[29. Major river sections & crossings]] |     |
+| [[29. River sections & crossing mitigation]] |     |
 | [[30. Latest Country Information]]       |     |
 | [[31. The River system in Namibia]]      |     |
 
@@ -124,7 +124,9 @@ At its main centres, the region has facilities such as clinics and hospitals and
 >
 >--- 
 >
->**Martin Malec** for sharing his great footage.
+>**Martin Malec** for making use of a great deal of his footage to showcase the scenery.
+>
+>His ride report can be found on the Wilddog forum: https://wilddog.net.za/threads/capie-and-vaalie-taken-for-a-ride-by-dodgy-russian.222953/
 >
 >---
 >
