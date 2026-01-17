@@ -120,7 +120,15 @@ At its main centres, the region has facilities such as clinics and hospitals and
 >[!Note]
 >**Barbara Muszynski** for providing invaluable guidance helping us plan this expedition, having done parts of this trip back in 2019 with Johan, but without support vehicles .
 >
->**Martin Malec and Hardy de Kock**, for sharing important information, having travelled these parts on many occasions.
+>and for sharing footage : <a href="https://www.youtube.com/watch?v=_c34-61o5yk" target="_blank" rel="noopener">Video of general overview of Barbara and Johan's trip in the same area</a> 
+>
+>--- 
+>
+>**Martin Malec** for sharing his great footage.
+>
+>---
+>
+**Hardy de Kock**, for sharing information, having travelled these parts on many occasions.
 >
 
 ---
