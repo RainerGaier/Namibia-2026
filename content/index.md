@@ -24,16 +24,16 @@
 
 >This Expedition will take us through some of the most geographically diverse and sparsely occupied terrain in Namibia ... Damaraland and Kaokoland (the Erongo and Kunene regions); we'll be riding through and seeing some unusual landmarks like Spitzkoppe, Brandberg, Epupa Falls, Van Zyl's pass, the Marienfluss, Purros Canyon, Kowharib Schlucht, Desolation valley and a bunch more. The best part for bikers ... you will be witnessing changing conditions right under you feet every day. 
 >
-While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need.
+>While the terrain is often rough, we've opted for a mix of roughing it in the open and the occasional luxury lodging.  Unlike some solo travellers without support, we've opted to go for a little more comfort and piece of mind, making travelling lighter and agile to enjoy the time in the saddle and hopefully less fatigue in the sandy, fesh-fesh and rocky conditions. We will be supported by three vehicles who will bring along all the goodies to complete the safety, camping, catering and backup facilities we'll need.
 >
 
 ---
 ### Map and routes
 
-| **USEFUL LINKS**                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">EXPEDITION ROUTES</a><br> |
-| <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>                      |
+| **USEFUL LINKS**                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">0o0o0o EXPEDITION ROUTES 0o0o0o</a><br> |
+| <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>                                    |
 
 >[!todo] We will have to keep *weather conditions prior to our trip* in mind, it could influence the routes. Vetenary and border regulations also need to be checked.
 >
@@ -131,7 +131,7 @@ At its main centres, the region has facilities such as clinics and hospitals and
 >
 >---
 >
-**Hardy de Kock**, for sharing information, having travelled these parts on many occasions.
+>**Hardy de Kock**, for sharing information, having travelled these parts on many occasions.
 >
 
 ---
