@@ -30,10 +30,10 @@
 ---
 ### Map and routes
 
-| **USEFUL LINKS**                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener">0o0o0o EXPEDITION ROUTES 0o0o0o</a><br> |
-| <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>                                    |
+| **USEFUL LINKS**                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://www.google.com/maps/d/u/0/edit?mid=1PMBwkk3lpjLPJ9QlbyaJaXHwf0Kbhgw&usp=sharing" target="_blank" rel="noopener"><\~\~o0o0o0o EXPEDITION ROUTES o0o0o0o\~\~></a><br> |
+| <a href="https://tracks4africa.co.za/maps/africa/" target="_blank" rel="noopener">Tracks4Africa Map - A good place to look around</a>                                                |
 
 >[!todo] We will have to keep *weather conditions prior to our trip* in mind, it could influence the routes. Vetenary and border regulations also need to be checked.
 >
