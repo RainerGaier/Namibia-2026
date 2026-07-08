@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/gaierr/Documents/quartz/**)",
+      "Read(//c/Users/gaierr/Documents/quartz/content/**)",
+      "Bash(git ls-remote *)",
+      "Read(//c/Users/gaierr/.claude/projects/C--Users-gaierr-OneDrive---Ovations-Technologies-Documents-Obsidian-Vault-My-Stuff-Namibia-Index/**)",
+      "Read(//c/Users/gaierr/.claude/projects/C--Users-gaierr-OneDrive---Ovations-Technologies-Documents-Obsidian-Vault-My-Stuff-Namibia-Index/memory/**)",
+      "Bash(rm -rf \"/c/Users/gaierr/AppData/Local/Temp/nam2026\")"
+    ]
+  }
+}
